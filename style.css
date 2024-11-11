@@ -1,0 +1,42 @@
+.box{
+    display: flex;
+    flex-direction: row;
+    border-radius: 0px !important;
+    margin-left: 400px;
+    /* margin-top: 50px; */
+}
+.I1{
+    width: 70px;
+    margin-top: -445px;
+    margin-left: 445px;
+    position: absolute;
+    width: 120px;
+}
+.I2{
+    width: 70px;
+    margin-top: -155px;
+    margin-left: 735px;
+    position: absolute;
+    width: 120px;
+}
+.I3{
+    width: 70px;
+    margin-top: -160px;
+    margin-left: 445px;
+    position: absolute;
+    width: 120px;
+}
+.I4{
+    width: 70px;
+    margin-top: -445px;
+    margin-left: 735px;
+    position: absolute;
+    width: 120px;
+}
+.I5{
+    width: 70px;
+    margin-top: -288px;
+    margin-left: 604px;
+    position: absolute;
+    width: 96px;
+}
